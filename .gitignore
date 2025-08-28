@@ -1,0 +1,8 @@
+# Папки IntelliJ IDEA
+/.idea/
+
+# Скомпилированные файлы Maven
+/target/
+
+# Файлы модулей IntelliJ IDEA
+*.iml
